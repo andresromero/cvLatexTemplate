@@ -1,0 +1,235 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\usepackage{fontawesome}
+\usepackage{tikz}
+\usetikzlibrary{decorations.markings}
+\newfontfamily{\FA}{FontAwesome Regular}
+\addbibresource{publications.bib}
+\def\twitter{{\FA \faTwitter}}
+\def\github{{\FA \faGithub}}
+\def\linkedin{{\FA \faLinkedin}}
+\def\envelope{{\FA \faEnvelopeAlt}}
+\def\phone{{\FA \faPhone}}
+\def\mobilePhone{{\FA \faMobilePhone}}
+\def\book{{\FA \faBook}}
+\def\flask{{\FA \faFlask}}
+\def\users{{\FA \faUsers}}
+\def\pencil{{\FA \faPencil}}
+\def\suitcase{{\FA \faSuitcase}}
+\def\quotesymbol{{\FA \faQuote}}
+
+\newcommand{\printaside}{
+  \begin{aside}
+    \section{About}
+      \\
+      {6 rue de Chateaudun\\
+        94200 Ivry-sur-Seine\\
+        France\\
+        ~\\
+        \phone\ 0178542907\\
+        \mobilePhone\ 0615231394\\
+        ~\\
+        \href{mailto:andresrommier@gmail.com}{\envelope andresrommier@gmail.com}\\
+        \href{http://twitter.com/andresrommier}{\twitter\ andresrommmier}\\
+        \href{http://andresromero.github.com}{\github\ andresromero}\\
+        \href{https://www.linkedin.com/in/romeromier}{\linkedin\ romeromier}}\\
+    \section{Languages}\\
+      {Full working proficiency in spanish, english and french}\\
+    \section{Programming/ \\ architectures}\\
+      {C and C++ (12+ years), Matlab (8+ years), Python (4+ years), PHP (4+ years), Javascript, {\stdfont \LaTeX} }\\
+      ~\\
+    % \section{parallel architectures}\\
+      {OpenMP, SIMD (SSE, AVX, Neon and Altivec)}\\
+      ~\\
+      {Notions of Massive Data Mining using MapReduce (Hadoop) and R}\\
+      ~\\
+    % \section{DSP's}\\
+      {TI C6000 and C5000}\\
+    % \section{embedded systems}\\
+      {Panda boards, Raspberry PI's and Intel ULV platforms}\\
+    \section{Operating systems}\\
+      {Strong Linux/Unix skills, Mac OS X, Windows}\\
+  \end{aside}
+}
+
+\begin{document}
+\header{\thinfont Andrés\ }{\headingfont Romero}
+       {PhD computer vision and parallel architectures}
+
+
+% In the aside, each new line forces a line break
+\section{{\flask}\ Interests}
+
+My research focuses on the development and acceleration of signal processing and computer vision algorithms. A key goal of my research is to develop high performance algorithms for \textbf{visual object detection}, \textbf{tracking} and \textbf{texture description} for real-world problems. The algorithms I have worked on require the understanding of a broad set of areas: \textbf{machine learning}, \textbf{software engineering}, \textbf{computer architecture} and \textbf{statistics}.
+
+In total, I have more than 8 years of research experience working with signal and image processing algorithms in embedded architectures. I am familiar with \textbf{ARM architectures} (ARM Cortex A9 and A15) and the \textbf{Texas Instruments C6000 DSP} family. On those platforms I have implemented many image, voice and audio processing algorithms.
+
+Other fields of interest to me are \textbf{data science}, \textbf{natural language processing} (NLP), \textbf{data mining}, \textbf{information theory}, \textbf{complexity theory} and \textbf{cybernetics}.
+
+\printaside
+
+\section{{\pencil}\ Education}
+
+\begin{entrylist}
+  \entry
+    {2010-2013}
+    {Ph.D. {\normalfont in Computer Science}}
+    {\href{http://www.lri.fr}{Laboratoire de Recherche en Informatique}, Université Paris Sud}
+    {\textbf{Advisors}: \href{https://www.lri.fr/~lacas/}{\mycolor{orange}{Lionel Lacassagne}} and \href{http://m.i.c.h.e.l.e.free.fr/}{\mycolor{orange}{Michèle Gouiffès}}\\
+    Real-time multi-target tracking: A study on color-texture covariance matrices and descriptor/operator switching. \\
+    The results of this work were considered for the \textbf{ITEA/Spy european project}.
+    }
+  \entry
+    {2006–2008}
+    {M.Sc. {\normalfont Signal Processing}}
+    {Instituto Politécnico Nacional (IPN)}
+    {
+      \textbf{Advisors}: \mycolor{orange}{Héctor Pérez Meana} and \mycolor{orange}{Mariko Nakano Miyatake} \\
+      Subject: Acoustic active noise controllers in TMS320C6713DSK platforms.
+    }
+  \entry
+    {2000-2005}
+    {Telecommunications Engineering}
+    {Universidad Nacional Autónoma de México (UNAM)}
+    {
+      \textbf{Advisor}: \mycolor{orange}{Bohumil Psenicka} \\
+      Graduation project: Acoustic active noise cancellation.
+    }
+  \entry
+    {2000}
+    {High-school}
+    {Centro Universitario México, Mexico City}
+    {Specialization in mathematics and physics}
+\end{entrylist}
+
+\section{{\suitcase}\ Experience}
+
+\begin{entrylist}
+  \entry
+    {2013-2014}
+    {Université Paris Sud, Orsay Faculty of Sciences}
+    {Invited researcher and teacher}
+    {Research work: Covariance descriptor algorithm implementation on \enquote{Many-core} architectures (Xeon-Phi)}
+  \entry
+    {2012-2013}
+    {ITEA/Spy European Project}
+    {R\&D engineer}
+    {Tracking and pedestrian re-identification module, project in collaboration between CASSIDEAN, EOLAN, ENSTA and IEF, Université Paris Sud}
+  \entry
+    {2009}
+    {Minalum de México S.A. de C.V.}
+    {R\&D engineer}
+    {Brush-less DC motor controller development using PIC's}
+  \entry
+    {2009}
+    {Czech Technical University in Prague, Czech Republic}
+    {Visiting Student}
+    {Hosted by Prof. Pavel Saradnik}
+  \entry
+    {2007-2009}
+    {Computer security department, DGSCA, UNAM}
+    {Software engineer}
+    {Emergency response team (CERT) system development.}
+\end{entrylist}
+
+\begin{entrylist}
+  \entry
+    {2006-2007}
+    {Operations engineer}
+    {Qualcomm, Omnitracs, Mexico City, Mexico}
+    {Satellite and GPS surveillance system operator}
+  \entry
+    {2004}
+    {Electoral Institute of Oaxaca, Oaxaca,Mexico}
+    {Software engineer}
+    {Pre-electoral results system for the 2004 governor and local congress elections}
+\end{entrylist}
+
+\printaside
+
+\section{{\users}\ Teaching experience}
+\begin{entrylist}
+  \entry
+    {2013-2014}
+    {ATER (Invited researcher and teacher)}
+    {Université Paris-Sud, France}
+    {
+      \textbf{Courses}:
+      \begin{itemize}
+      \item SIMD instructions for image processing,
+      \item On-line data representations (XML, DOM, XPath, XSLT), 
+      \item Relational data bases (SQL), 
+      \item Advanced C programming, 
+      \item Logical component and computer architecture, 
+      \item Scilab.
+     \end{itemize}
+    }
+  \entry
+    {2012-2013}
+    {Laboratory teacher}
+    {Université Paris-Sud, France}
+    {
+      \textbf{Courses}:
+        SIMD instructions for image processing.
+    }
+  \entry
+    {2005-2008}
+    {Laboratory teacher}
+    {Universidad Nacional Autónoma de México, Mexico}
+    {
+       \textbf{Courses}:
+       \begin{itemize}
+         \item Digital signal processing algorithm implementations on DSP architectures,
+         \item Digital and analog filtering.
+       \end{itemize}
+    }
+\end{entrylist}
+
+\section{{\book}\ Publications}
+
+\printbibsection{article}{Article in peer-reviewed journal}
+\begin{refsection}
+  \nocite{*}
+  \printbibliography[sorting=chronological, type=inproceedings, title={International peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
+\end{refsection}
+\begin{refsection}
+  \nocite{*}
+  \printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
+\end{refsection}
+\printbibsection{misc}{other publications}
+\printbibsection{report}{research reports}
+
+\section{{\quotesymbol}\ References}
+  Lionel Lacassagne, Associate Professor (MCF HDR) \\
+  Laboratoire de Recherche en Informatique (LRI)
+  Université Paris Sud\\
+  \envelope\ lionel.lacassagne@lri.fr\\
+  \phone\ +33 0169154124
+
+  \dottedline
+
+  Michèle Gouiffès, Enseignant Chercheur \\
+  Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur \\
+  Université Paris Sud\\
+  \envelope\ michele.gouiffes@u-psud.fr\\
+  \phone\ +33 0169858113
+
+  \dottedline
+
+  Rubén Aquino Luna,  \\
+  Subdirector of Information Security, DGTIC, UNAM \\
+  Universidad Nacional Autónoma de México \\
+  \envelope\ raquino@seguridad.unam.mx\\
+  \phone\ +52 55 56223064
+
+  \dottedline
+
+  Bohumil Psenicka, Full-time definite C-level Professor \\
+  Facultad de Ingeniería, UNAM, Mexico City, Mexico \\
+  Universidad Nacional Autónoma de México \\
+  \envelope\ pseboh@servidor.unam.mx\\
+  \phone\ +52 55 56223064
+
+\printaside
+
+\end{document}

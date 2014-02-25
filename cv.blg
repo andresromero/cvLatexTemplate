@@ -1,0 +1,90 @@
+[1] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is 'cv.blg'
+[86] biber:275> INFO - === mar feb 25, 2014, 18:31:01
+[87] Biber.pm:333> INFO - Reading 'cv.bcf'
+[162] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[162] Biber.pm:607> INFO - Using all citekeys in bib section 1
+[162] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[162] Biber.pm:607> INFO - Using all citekeys in bib section 2
+[162] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[163] Biber.pm:607> INFO - Using all citekeys in bib section 3
+[163] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[163] Biber.pm:607> INFO - Using all citekeys in bib section 4
+[163] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[163] Biber.pm:607> INFO - Using all citekeys in bib section 5
+[163] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[181] Biber.pm:3053> INFO - Processing section 1
+[198] Biber.pm:3190> INFO - Looking for bibtex format file 'publications.bib' for section 1
+[200] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[204] bibtex.pm:812> INFO - Found BibTeX data source 'publications.bib'
+[222] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icinco/2008spsmc' in entry 'DBLP:conf/icinco/PsenickaGT08' - ignoring (section 1)
+[223] Utils.pm:169> WARN - The field 'pages' in entry 'romero2013mirage' cannot be null, deleting it
+[224] Utils.pm:169> WARN - The field 'pages' in entry 'romero2012accv' cannot be null, deleting it
+[224] Utils.pm:169> WARN - The field 'issn' in entry '6144104' cannot be null, deleting it
+[224] Utils.pm:169> WARN - The field 'number' in entry '6144104' cannot be null, deleting it
+[224] Utils.pm:169> WARN - The field 'volume' in entry '6144104' cannot be null, deleting it
+[258] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[258] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[258] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[289] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[289] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[290] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[319] Biber.pm:3053> INFO - Processing section 2
+[320] Biber.pm:3190> INFO - Looking for bibtex format file 'publications.bib' for section 2
+[334] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icinco/2008spsmc' in entry 'DBLP:conf/icinco/PsenickaGT08' - ignoring (section 2)
+[336] Utils.pm:169> WARN - The field 'pages' in entry 'romero2013mirage' cannot be null, deleting it
+[336] Utils.pm:169> WARN - The field 'pages' in entry 'romero2012accv' cannot be null, deleting it
+[336] Utils.pm:169> WARN - The field 'issn' in entry '6144104' cannot be null, deleting it
+[336] Utils.pm:169> WARN - The field 'number' in entry '6144104' cannot be null, deleting it
+[336] Utils.pm:169> WARN - The field 'volume' in entry '6144104' cannot be null, deleting it
+[360] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[360] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[360] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[392] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[393] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[393] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[424] Biber.pm:3053> INFO - Processing section 3
+[424] Biber.pm:3190> INFO - Looking for bibtex format file 'publications.bib' for section 3
+[439] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icinco/2008spsmc' in entry 'DBLP:conf/icinco/PsenickaGT08' - ignoring (section 3)
+[441] Utils.pm:169> WARN - The field 'pages' in entry 'romero2013mirage' cannot be null, deleting it
+[441] Utils.pm:169> WARN - The field 'pages' in entry 'romero2012accv' cannot be null, deleting it
+[441] Utils.pm:169> WARN - The field 'issn' in entry '6144104' cannot be null, deleting it
+[442] Utils.pm:169> WARN - The field 'number' in entry '6144104' cannot be null, deleting it
+[442] Utils.pm:169> WARN - The field 'volume' in entry '6144104' cannot be null, deleting it
+[465] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[465] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[465] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[496] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[496] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[496] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[525] Biber.pm:3053> INFO - Processing section 4
+[526] Biber.pm:3190> INFO - Looking for bibtex format file 'publications.bib' for section 4
+[540] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icinco/2008spsmc' in entry 'DBLP:conf/icinco/PsenickaGT08' - ignoring (section 4)
+[542] Utils.pm:169> WARN - The field 'pages' in entry 'romero2013mirage' cannot be null, deleting it
+[542] Utils.pm:169> WARN - The field 'pages' in entry 'romero2012accv' cannot be null, deleting it
+[542] Utils.pm:169> WARN - The field 'issn' in entry '6144104' cannot be null, deleting it
+[542] Utils.pm:169> WARN - The field 'number' in entry '6144104' cannot be null, deleting it
+[543] Utils.pm:169> WARN - The field 'volume' in entry '6144104' cannot be null, deleting it
+[566] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[566] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[566] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[597] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[597] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[597] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[626] Biber.pm:3053> INFO - Processing section 5
+[627] Biber.pm:3190> INFO - Looking for bibtex format file 'publications.bib' for section 5
+[641] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icinco/2008spsmc' in entry 'DBLP:conf/icinco/PsenickaGT08' - ignoring (section 5)
+[643] Utils.pm:169> WARN - The field 'pages' in entry 'romero2013mirage' cannot be null, deleting it
+[643] Utils.pm:169> WARN - The field 'pages' in entry 'romero2012accv' cannot be null, deleting it
+[643] Utils.pm:169> WARN - The field 'issn' in entry '6144104' cannot be null, deleting it
+[643] Utils.pm:169> WARN - The field 'number' in entry '6144104' cannot be null, deleting it
+[643] Utils.pm:169> WARN - The field 'volume' in entry '6144104' cannot be null, deleting it
+[666] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[666] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[667] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[697] Biber.pm:2939> INFO - Overriding locale 'C' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[697] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[697] Biber.pm:2949> INFO - No sort tailoring available for locale 'C'
+[726] bbl.pm:482> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[743] bbl.pm:555> INFO - Output to cv.bbl
+[744] Biber.pm:105> INFO - WARNINGS: 30

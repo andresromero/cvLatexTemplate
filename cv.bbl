@@ -1,0 +1,2285 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \sortlist{entry}{chronological}
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{2}
+  \sortlist{entry}{chronological}
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{3}
+  \sortlist{entry}{chronological}
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{4}
+  \sortlist{entry}{chronological}
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{5}
+  \sortlist{entry}{chronological}
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{laguzet2013color}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f97857610ac7946c626cd4e03ff075d0}{Laguzet}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \strng{fullhash}{39479bd377b0e402afa4bcf5152ab5f9}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{journaltitle}{Journal of Real Time Image Processing (JRTIP)}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Color tracking with contextual switching: Real-time implementation on CPU}}
+      \field{year}{2013}
+    \endentry
+    \entry{dasip2013}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ae3532c2ecb50f9dfc89084f697af49b}{Romero\bibnamedelimb Mier\bibnamedelimb y\bibnamedelima Terán}{R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim T\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d4bb24d8317d1e9499341d59db42647b}{Hassan\bibnamedelima Zahraee}{H\bibinitperiod\bibinitdelim Z\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7697aceabc719a9885c685bcb71a2829}
+      \strng{fullhash}{7697aceabc719a9885c685bcb71a2829}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{booktitle}{Conference on Design \& Architectures for Signal \& Image Processing (DASIP) proceedings.}
+      \field{number}{Special Issue on Real-Time Color Image Processing}
+      \field{title}{{Real-time covariance tracking algorithm for embedded systems}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013mirage}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{booktitle}{MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series}
+      \field{title}{{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2013icip}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{booktitle}{IEEE, International Conference on Image Processing (ICIP)}
+      \field{month}{09}
+      \field{title}{{Total Bregman Divergence for Multiple Object Tracking.}}
+      \field{year}{2013}
+    \endentry
+    \entry{romero2012accv}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springerlink}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{booktitle}{ACCV 2012 Workshops, Part II, LNCS 7729 proceedings}
+      \field{title}{Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation}
+      \field{year}{2012}
+    \endentry
+    \entry{6144104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b413093a6ef3253460b80dd08f157ba8}{Gouiffès}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e5c5372009926806e7eb9bfafdee9ee8}{Lacassagne}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f8f5aef309574599a874352c60c23d4}
+      \strng{fullhash}{3f8f5aef309574599a874352c60c23d4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Feature points tracking adaptive to saturation}
+      \field{booktitle}{Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on}
+      \field{month}{11}
+      \field{title}{Feature points tracking adaptive to saturation}
+      \field{year}{2011}
+      \field{pages}{277\bibrangedash 282}
+      \verb{doi}
+      \verb 10.1109/ICSIPA.2011.6144104
+      \endverb
+      \keyw{classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;}
+    \endentry
+    \entry{psenicka2009design}{chapter}{}
+      \name{labelname}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=40722821dabb165916f1a261b62ee9ab}{Psenicka}{P\bibinitperiod}{Bohumil}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2317288d23fa45196e2a1817bf5a8b3e}{Ugalde}{U\bibinitperiod}{Francisco\bibnamedelima Garcia}{F\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=b1975977817eac27ac4643d13c5d0407}{Romero}{R\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{55accfd3196a63e3582f3492dce44ced}
+      \strng{fullhash}{55accfd3196a63e3582f3492dce44ced}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of the Wave Digital Filters}
+      \field{title}{Design of the Wave Digital Filters}
+      \field{year}{2009}
+    \endentry
+    \entry{DBLP:conf/icinco/PsenickaGT08}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=aa30a92fc4b6f886ddda42583680b176}{García-Ugalde}{G\bibinithyphendelim U\bibinitperiod}{Francisco\bibnamedelima J.}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=c74858a0ee67d1e29d055f97bd1ffadc}{Terán}{T\bibinitperiod}{A.\bibnamedelimi Romero\bibnamedelima Mier}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}{y}{y\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{3c38af4ae246dd9e671df5a6296529e1}
+      \strng{fullhash}{3c38af4ae246dd9e671df5a6296529e1}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{booktitle}{ICINCO-SPSMC}
+      \field{title}{Synthesis of the Low-pass and High-pass Wave Digital Filters}
+      \field{year}{2008}
+      \field{pages}{225\bibrangedash 231}
+    \endentry
+    \entry{romero2008h}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b2eb4b62a74f6ab2ab7b0e6903710894}{Nakano-Miyatake}{N\bibinithyphendelim M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \strng{fullhash}{60bdbece6e13294cb7d1e3c8da75f847}
+      \field{sortinit}{2}
+      \field{labeltitle}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{journaltitle}{WSEAS Recent Advances in Systems, Communications and Computers}
+      \field{title}{H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation}
+      \field{year}{2008}
+      \field{pages}{194\bibrangedash 199}
+    \endentry
+    \entry{Psenicka}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=51851e0cc7f9c95398305e78324d816e}{Psenicka}{P\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b00503bb92499a67eeda20114dd12b60}{Ugalde}{U\bibinitperiod}{F.G.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ec2538338f5a0cce4b71951b7545e1c4}{Salguero}{S\bibinitperiod}{L.E.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=dda1ae650241710e5b51604f97d19eb8}{Romero}{R\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \strng{fullhash}{b063d8c6dd27eb71eb04f5c1d9b7e8e4}
+      \field{sortinit}{2}
+      \field{labeltitle}{Synthesis of digital structure by matrix method}
+      \field{booktitle}{Proceedings of the 7th IASTED International Conference on Signal and Image Processing}
+      \field{title}{Synthesis of digital structure by matrix method}
+      \field{year}{2005}
+      \field{pages}{190\bibrangedash 194}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
